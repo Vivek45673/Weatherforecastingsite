@@ -1,0 +1,1 @@
+ Weather Forecasting Site is a web application that allows users to check real-time weather updates for any location. This frontend project will provide users with essential weather details such as temperature, humidity, wind speed, and a 5-day forecast.
